@@ -1,0 +1,6 @@
+1. git add . => to add all files
+2. git add filename => to add specific filename
+3. git add *.txt => to add all files with .txt extension
+
+4. git log => to see all git logs
+5. git log -2 => to see last 2 logs
