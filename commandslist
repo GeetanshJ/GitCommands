@@ -4,3 +4,8 @@
 
 4. git log => to see all git logs
 5. git log -2 => to see last 2 logs
+6. git shortlog => to see commit messages
+7. git log --branch => represent graph structure of commit history
+8. git log --after="" => commit history after specific date
+9. git log --author="" => commit history of specific user
+10. git log --grep="" => commit history by commit message
