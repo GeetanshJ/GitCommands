@@ -13,3 +13,8 @@
 11. git clone "" => creates copy of entire repository do first time in project
 12. git fetch origin => if you want to see the changes in repo without changing local code
 13. git pull origin main => this is the combination of fetch and merge it will download changes and merge into local repo
+
+14. git branch => to show all branches
+15. git branch branchName => to create a branch 
+16. git checkout branchName => to switch between a branch 
+17. git branch -v => to show last commit of all branches
