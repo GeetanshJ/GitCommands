@@ -21,6 +21,7 @@
 
 18. git merge branchName => to merge that branch into current branch
 
+
 19. 
         A---B---C (main)
         |
@@ -42,4 +43,4 @@
 19C. rebase and merge => 
 
         A---B---C---D'---E'---F' (main)
-20. 
+=======
