@@ -18,6 +18,7 @@
 15. git branch branchName => to create a branch 
 16. git checkout branchName => to switch between a branch 
 17. git branch -v => to show last commit of all branches
-18. ==
-19. == 
-18. this is
+
+18. git merge branchName => to merge that branch into current branch
+19. 
+20. 
