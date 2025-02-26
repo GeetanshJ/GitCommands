@@ -18,6 +18,7 @@
 15. git branch branchName => to create a branch 
 16. git checkout branchName => to switch between a branch 
 17. git branch -v => to show last commit of all branches
+17A. git branch -d/-D => to delete branch / forcefully delete
 
 18. git merge branchName => to merge that branch into current branch
 
@@ -43,3 +44,6 @@
 19C. rebase and merge => 
 
         A---B---C---D'---E'---F' (main)
+
+
+
