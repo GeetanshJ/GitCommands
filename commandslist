@@ -20,5 +20,26 @@
 17. git branch -v => to show last commit of all branches
 
 18. git merge branchName => to merge that branch into current branch
-19. temp data
+
+19. 
+        A---B---C (main)
+        |
+        D---E---F (feature)
+        
+
+19A. create a merge commit => 
+
+        A---B---C---G (main)
+        |          /
+        D----E----F (feature)
+
+
+19B. squash and merge => 
+  
+        A---B---C---G (main)
+
+
+19C. rebase and merge => 
+
+        A---B---C---D'---E'---F' (main)
 20. 
