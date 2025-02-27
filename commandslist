@@ -18,6 +18,7 @@
 15. git branch branchName => to create a branch 
 16. git checkout branchName => to switch between a branch 
 17. git branch -v => to show last commit of all branches
+
 18. git merge branchName => to merge that branch into current branch
 
 
@@ -46,6 +47,7 @@
 
 20. git revert commitValue => to revert changes
 21. git revert --no-commit commitValue => to revert without commit 
+<<<<<<< HEAD
 
 22. git stash => if you want to do not commit changes and move to other branch then use git stash 
 
@@ -53,3 +55,5 @@
 24. git rm --cached fileName => if you want to remove file from repo but not locally
 
 25. testing reset
+=======
+>>>>>>> parent of d478040 (stash)
