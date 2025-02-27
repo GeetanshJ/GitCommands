@@ -51,3 +51,5 @@
 
 23. git rm fileName => if you want to remove file from repo and local
 24. git rm --cached fileName => if you want to remove file from repo but not locally
+
+25. testing reset
