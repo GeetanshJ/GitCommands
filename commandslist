@@ -47,13 +47,10 @@
 
 20. git revert commitValue => to revert changes
 21. git revert --no-commit commitValue => to revert without commit 
-<<<<<<< HEAD
 
 22. git stash => if you want to do not commit changes and move to other branch then use git stash 
 
 23. git rm fileName => if you want to remove file from repo and local
 24. git rm --cached fileName => if you want to remove file from repo but not locally
 
-25. testing reset
-=======
->>>>>>> parent of d478040 (stash)
+25. git log --stat => Along with the ordin (stash) Along with the ordinary git log information, include which files were altered and the relative number of  lines that were added or deleted from each of them.
